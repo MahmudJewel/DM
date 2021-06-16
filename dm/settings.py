@@ -26,7 +26,7 @@ SECRET_KEY = 'b=7!xfiyw+!rt#=1mdq365+#u&se&_byu7jh^f++t@s@($k&f!'
 DEBUG = True
 
         #Heroku
-ALLOWED_HOSTS = ['127.0.0.1', '.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'frozen-journey-38839.herokuapp.com']
 
 
 # Application definition
