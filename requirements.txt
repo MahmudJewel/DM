@@ -4,7 +4,7 @@ aiodns==2.0.0
 aiohttp==3.6.2
 aioredis==1.3.1
 ajpy==0.0.4
-alembic==1.4.3.dev0
+
 aniso8601==8.1.1
 APScheduler==0.0.0
 asgiref==3.3.4
